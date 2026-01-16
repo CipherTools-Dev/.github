@@ -1,7 +1,7 @@
 # 这里是 CipherTools 组织的页面！
 
 <div align="center">
-<img src="CipherTools_NameIco.png" alt="Logo" width="400" height="400">
+<img src="CipherTools_NameIco.png" alt="Logo" width="300" height="360">
 </div>
 
 Cipher Tools 是一个基于 Qt6 进行实现的集网络信息、WOL唤醒、NAT 检测、游戏 IP 和全球网测延迟检测、路由跟踪为一身的超级工具。
